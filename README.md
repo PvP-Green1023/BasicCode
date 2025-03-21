@@ -1,0 +1,2 @@
+# BasicCode
+BasicCode = CodeEditor
